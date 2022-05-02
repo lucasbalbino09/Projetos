@@ -1,0 +1,10 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\bin\Debug\netcoreapp2.1\QuartoExercicio.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\bin\Debug\netcoreapp2.1\QuartoExercicio.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\bin\Debug\netcoreapp2.1\QuartoExercicio.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\bin\Debug\netcoreapp2.1\QuartoExercicio.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\bin\Debug\netcoreapp2.1\QuartoExercicio.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\obj\Debug\netcoreapp2.1\QuartoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\obj\Debug\netcoreapp2.1\QuartoExercicio.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\obj\Debug\netcoreapp2.1\QuartoExercicio.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\obj\Debug\netcoreapp2.1\QuartoExercicio.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\QuartoExercicio\QuartoExercicio\obj\Debug\netcoreapp2.1\QuartoExercicio.pdb

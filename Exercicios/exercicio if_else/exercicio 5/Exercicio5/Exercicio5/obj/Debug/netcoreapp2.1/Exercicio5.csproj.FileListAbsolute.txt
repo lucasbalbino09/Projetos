@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\bin\Debug\netcoreapp2.1\Exercicio5.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\bin\Debug\netcoreapp2.1\Exercicio5.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\bin\Debug\netcoreapp2.1\Exercicio5.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\bin\Debug\netcoreapp2.1\Exercicio5.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\bin\Debug\netcoreapp2.1\Exercicio5.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\obj\Debug\netcoreapp2.1\Exercicio5.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\obj\Debug\netcoreapp2.1\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\obj\Debug\netcoreapp2.1\Exercicio5.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\obj\Debug\netcoreapp2.1\Exercicio5.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\obj\Debug\netcoreapp2.1\Exercicio5.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\exercicio 5\Exercicio5\Exercicio5\obj\Debug\netcoreapp2.1\Exercicio5.pdb

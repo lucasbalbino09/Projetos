@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\bin\Debug\netcoreapp2.1\entradasDeDados.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\bin\Debug\netcoreapp2.1\entradasDeDados.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\bin\Debug\netcoreapp2.1\entradasDeDados.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\bin\Debug\netcoreapp2.1\entradasDeDados.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\bin\Debug\netcoreapp2.1\entradasDeDados.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\obj\Debug\netcoreapp2.1\entradasDeDados.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\obj\Debug\netcoreapp2.1\entradasDeDados.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\obj\Debug\netcoreapp2.1\entradasDeDados.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\obj\Debug\netcoreapp2.1\entradasDeDados.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\obj\Debug\netcoreapp2.1\entradasDeDados.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\entradasDeDados\entradasDeDados\obj\Debug\netcoreapp2.1\entradasDeDados.pdb

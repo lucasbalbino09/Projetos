@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\bin\Debug\netcoreapp2.1\TerceiroExercicio.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\bin\Debug\netcoreapp2.1\TerceiroExercicio.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\bin\Debug\netcoreapp2.1\TerceiroExercicio.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\bin\Debug\netcoreapp2.1\TerceiroExercicio.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\bin\Debug\netcoreapp2.1\TerceiroExercicio.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\obj\Debug\netcoreapp2.1\TerceiroExercicio.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\obj\Debug\netcoreapp2.1\TerceiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\obj\Debug\netcoreapp2.1\TerceiroExercicio.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\obj\Debug\netcoreapp2.1\TerceiroExercicio.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\obj\Debug\netcoreapp2.1\TerceiroExercicio.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\TerceiroExercicio\TerceiroExercicio\obj\Debug\netcoreapp2.1\TerceiroExercicio.pdb

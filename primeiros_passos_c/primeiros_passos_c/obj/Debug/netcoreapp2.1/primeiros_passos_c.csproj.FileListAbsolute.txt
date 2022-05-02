@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\bin\Debug\netcoreapp2.1\primeiros_passos_c.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\bin\Debug\netcoreapp2.1\primeiros_passos_c.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\bin\Debug\netcoreapp2.1\primeiros_passos_c.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\bin\Debug\netcoreapp2.1\primeiros_passos_c.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\bin\Debug\netcoreapp2.1\primeiros_passos_c.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\obj\Debug\netcoreapp2.1\primeiros_passos_c.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\obj\Debug\netcoreapp2.1\primeiros_passos_c.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\obj\Debug\netcoreapp2.1\primeiros_passos_c.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\obj\Debug\netcoreapp2.1\primeiros_passos_c.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\obj\Debug\netcoreapp2.1\primeiros_passos_c.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\primeiros_passos_c\primeiros_passos_c\obj\Debug\netcoreapp2.1\primeiros_passos_c.pdb

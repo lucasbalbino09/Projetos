@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\bin\Debug\netcoreapp2.1\escopoeInicializacao.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\bin\Debug\netcoreapp2.1\escopoeInicializacao.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\bin\Debug\netcoreapp2.1\escopoeInicializacao.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\bin\Debug\netcoreapp2.1\escopoeInicializacao.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\bin\Debug\netcoreapp2.1\escopoeInicializacao.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\obj\Debug\netcoreapp2.1\escopoeInicializacao.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\obj\Debug\netcoreapp2.1\escopoeInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\obj\Debug\netcoreapp2.1\escopoeInicializacao.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\obj\Debug\netcoreapp2.1\escopoeInicializacao.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\obj\Debug\netcoreapp2.1\escopoeInicializacao.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\EscopoeInicializacao\escopoeInicializacao\escopoeInicializacao\obj\Debug\netcoreapp2.1\escopoeInicializacao.pdb

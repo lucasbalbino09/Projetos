@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\bin\Debug\netcoreapp2.1\ExercicioReforco1.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\bin\Debug\netcoreapp2.1\ExercicioReforco1.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\bin\Debug\netcoreapp2.1\ExercicioReforco1.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\bin\Debug\netcoreapp2.1\ExercicioReforco1.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\bin\Debug\netcoreapp2.1\ExercicioReforco1.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\obj\Debug\netcoreapp2.1\ExercicioReforco1.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\obj\Debug\netcoreapp2.1\ExercicioReforco1.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\obj\Debug\netcoreapp2.1\ExercicioReforco1.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\obj\Debug\netcoreapp2.1\ExercicioReforco1.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\obj\Debug\netcoreapp2.1\ExercicioReforco1.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\ExercicioReforço\ExercicioReforco1\ExercicioReforco1\obj\Debug\netcoreapp2.1\ExercicioReforco1.csprojAssemblyReference.cache
