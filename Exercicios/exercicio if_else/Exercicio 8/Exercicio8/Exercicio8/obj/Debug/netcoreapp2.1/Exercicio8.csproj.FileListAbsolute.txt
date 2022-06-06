@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\bin\Debug\netcoreapp2.1\Exercicio8.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\bin\Debug\netcoreapp2.1\Exercicio8.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\bin\Debug\netcoreapp2.1\Exercicio8.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\bin\Debug\netcoreapp2.1\Exercicio8.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\bin\Debug\netcoreapp2.1\Exercicio8.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\obj\Debug\netcoreapp2.1\Exercicio8.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\obj\Debug\netcoreapp2.1\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\obj\Debug\netcoreapp2.1\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\obj\Debug\netcoreapp2.1\Exercicio8.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\obj\Debug\netcoreapp2.1\Exercicio8.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio if_else\Exercicio 8\Exercicio8\Exercicio8\obj\Debug\netcoreapp2.1\Exercicio8.pdb

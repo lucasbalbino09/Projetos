@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\bin\Debug\netcoreapp2.1\Retangulo.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\bin\Debug\netcoreapp2.1\Retangulo.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\bin\Debug\netcoreapp2.1\Retangulo.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\bin\Debug\netcoreapp2.1\Retangulo.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\bin\Debug\netcoreapp2.1\Retangulo.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\obj\Debug\netcoreapp2.1\Retangulo.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\obj\Debug\netcoreapp2.1\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\obj\Debug\netcoreapp2.1\Retangulo.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\obj\Debug\netcoreapp2.1\Retangulo.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\obj\Debug\netcoreapp2.1\Retangulo.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Areadotriangulo\Retangulo\Retangulo\obj\Debug\netcoreapp2.1\Retangulo.pdb

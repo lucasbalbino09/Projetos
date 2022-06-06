@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\bin\Debug\netcoreapp2.1\exercicio_intervalo.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\bin\Debug\netcoreapp2.1\exercicio_intervalo.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\bin\Debug\netcoreapp2.1\exercicio_intervalo.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\bin\Debug\netcoreapp2.1\exercicio_intervalo.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\bin\Debug\netcoreapp2.1\exercicio_intervalo.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\obj\Debug\netcoreapp2.1\exercicio_intervalo.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\obj\Debug\netcoreapp2.1\exercicio_intervalo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\obj\Debug\netcoreapp2.1\exercicio_intervalo.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\obj\Debug\netcoreapp2.1\exercicio_intervalo.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\obj\Debug\netcoreapp2.1\exercicio_intervalo.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Exercicios\exercicio for\exercicio_intervalo\exercicio_intervalo\obj\Debug\netcoreapp2.1\exercicio_intervalo.pdb

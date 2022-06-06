@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\bin\Debug\netcoreapp2.1\pessoa.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\bin\Debug\netcoreapp2.1\pessoa.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\bin\Debug\netcoreapp2.1\pessoa.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\bin\Debug\netcoreapp2.1\pessoa.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\bin\Debug\netcoreapp2.1\pessoa.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\obj\Debug\netcoreapp2.1\pessoa.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\obj\Debug\netcoreapp2.1\pessoa.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\obj\Debug\netcoreapp2.1\pessoa.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\obj\Debug\netcoreapp2.1\pessoa.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\obj\Debug\netcoreapp2.1\pessoa.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\pessoa\pessoa\obj\Debug\netcoreapp2.1\pessoa.pdb

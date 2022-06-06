@@ -1,0 +1,10 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\bin\Debug\netcoreapp2.1\dinheiro.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\bin\Debug\netcoreapp2.1\dinheiro.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\bin\Debug\netcoreapp2.1\dinheiro.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\bin\Debug\netcoreapp2.1\dinheiro.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\bin\Debug\netcoreapp2.1\dinheiro.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\obj\Debug\netcoreapp2.1\dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\obj\Debug\netcoreapp2.1\dinheiro.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\obj\Debug\netcoreapp2.1\dinheiro.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\obj\Debug\netcoreapp2.1\dinheiro.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Repeticoes\for\repeticao\pratica\dinheiro\dinheiro\obj\Debug\netcoreapp2.1\dinheiro.pdb
