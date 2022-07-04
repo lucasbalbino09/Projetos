@@ -9,3 +9,14 @@ C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientaca
 C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.AssemblyInfo.cs
 C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.dll
 C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\bin\Debug\netcoreapp2.1\index.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\bin\Debug\netcoreapp2.1\index.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\bin\Debug\netcoreapp2.1\index.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\bin\Debug\netcoreapp2.1\index.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\bin\Debug\netcoreapp2.1\index.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Desenv_C#\Orientacao objeto\exercicio\estoque\index\index\obj\Debug\netcoreapp2.1\index.pdb

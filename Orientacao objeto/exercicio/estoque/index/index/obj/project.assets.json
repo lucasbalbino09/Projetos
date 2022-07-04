@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Orientacao objeto\\exercicio\\estoque\\index\\index\\index.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Orientacao objeto\\exercicio\\estoque\\index\\index\\index.csproj",
       "projectName": "index",
-      "projectPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Orientacao objeto\\exercicio\\estoque\\index\\index\\index.csproj",
+      "projectPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Orientacao objeto\\exercicio\\estoque\\index\\index\\index.csproj",
       "packagesPath": "C:\\Users\\lucas.balbino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Orientacao objeto\\exercicio\\estoque\\index\\index\\obj\\",
+      "outputPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Orientacao objeto\\exercicio\\estoque\\index\\index\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

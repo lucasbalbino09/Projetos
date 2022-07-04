@@ -7,14 +7,14 @@ namespace index
         static void Main(string[] args)
         {
 
-            Estoque p = new Estoque("Tv",500.00, 10);
+            Estoque p = new Estoque("TV",500.00, 10);
 
 
-            p.SetNome(""); 
+            p.Nome = "T"; 
 
-            Console.WriteLine(p.GetNome());
-            Console.WriteLine(p.GetPreco());
-            Console.WriteLine(p.GetQuantidade());
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
+            
                
 
         }
