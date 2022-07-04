@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\bin\Debug\netcoreapp2.1\salariofuncionario.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\bin\Debug\netcoreapp2.1\salariofuncionario.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\bin\Debug\netcoreapp2.1\salariofuncionario.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\bin\Debug\netcoreapp2.1\salariofuncionario.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\bin\Debug\netcoreapp2.1\salariofuncionario.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\obj\Debug\netcoreapp2.1\salariofuncionario.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\obj\Debug\netcoreapp2.1\salariofuncionario.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\obj\Debug\netcoreapp2.1\salariofuncionario.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\obj\Debug\netcoreapp2.1\salariofuncionario.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\obj\Debug\netcoreapp2.1\salariofuncionario.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Salario\salariofuncionario\salariofuncionario\obj\Debug\netcoreapp2.1\salariofuncionario.pdb

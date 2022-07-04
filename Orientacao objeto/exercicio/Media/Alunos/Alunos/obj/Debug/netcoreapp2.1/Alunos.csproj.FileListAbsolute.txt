@@ -1,0 +1,11 @@
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\bin\Debug\netcoreapp2.1\Alunos.deps.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\bin\Debug\netcoreapp2.1\Alunos.runtimeconfig.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\bin\Debug\netcoreapp2.1\Alunos.runtimeconfig.dev.json
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\bin\Debug\netcoreapp2.1\Alunos.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\bin\Debug\netcoreapp2.1\Alunos.pdb
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\obj\Debug\netcoreapp2.1\Alunos.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\obj\Debug\netcoreapp2.1\Alunos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\obj\Debug\netcoreapp2.1\Alunos.AssemblyInfoInputs.cache
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\obj\Debug\netcoreapp2.1\Alunos.AssemblyInfo.cs
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\obj\Debug\netcoreapp2.1\Alunos.dll
+C:\Users\lucas.balbino\Desktop\Desenvolvimento_Lucas\Calculadora_em_c#\Orientacao objeto\exercicio\Media\Alunos\Alunos\obj\Debug\netcoreapp2.1\Alunos.pdb

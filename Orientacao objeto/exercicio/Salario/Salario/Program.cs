@@ -7,31 +7,34 @@ namespace Dados
     {
         static void Main(string[] args)
         {
-            Salario Primeiro, Segundo, P;
+            
 
-            P = new Salario();
-            Segundo = new Salario();
-            Primeiro = new Salario();
-
+            
+            Salario Segundo = new Salario();
+            Salario Primeiro = new Salario();
+            Salario Medi = new Salario();
 
             Console.WriteLine("Dados do Fucionario:");
             Console.WriteLine("--------------------");
             Console.Write("Nome: ");
             Primeiro.Nome = Console.ReadLine();
             Console.Write("Salário: ");
-            Primeiro.Quantia1 = double.Parse(Console.ReadLine());
+            Primeiro.SalarioTotal = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Dados do Fucionario:");
             Console.WriteLine("--------------------");
             Console.Write("Nome: ");
             Segundo.Nome = Console.ReadLine();
             Console.Write("Salário: ");
-            Segundo.Quantia2 = double.Parse(Console.ReadLine());
+            Segundo.SalarioTotal = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
 
 
-           
-            Console.WriteLine("Valor total é: " + P);
+            Medi.resultado = (Primeiro.SalarioTotal + Segundo.SalarioTotal) / 2.00;
+                      
+            Console.WriteLine($"Valor total é: {Medi.resultado.ToString("C2", CultureInfo.CurrentCulture)}");
             Console.ReadLine();
+
+
         }
 
     }
