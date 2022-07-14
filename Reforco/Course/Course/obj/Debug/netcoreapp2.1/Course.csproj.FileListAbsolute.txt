@@ -1,0 +1,13 @@
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\obj\Debug\netcoreapp2.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Course\Course\obj\Debug\netcoreapp2.1\Course.genruntimeconfig.cache
