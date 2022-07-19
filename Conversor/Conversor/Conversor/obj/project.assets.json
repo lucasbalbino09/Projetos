@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Conversor\\Conversor\\Conversor\\Conversor.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Conversor\\Conversor\\Conversor\\Conversor.csproj",
       "projectName": "Conversor",
-      "projectPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Conversor\\Conversor\\Conversor\\Conversor.csproj",
+      "projectPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Conversor\\Conversor\\Conversor\\Conversor.csproj",
       "packagesPath": "C:\\Users\\lucas.balbino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Conversor\\Conversor\\Conversor\\obj\\",
+      "outputPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Conversor\\Conversor\\Conversor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

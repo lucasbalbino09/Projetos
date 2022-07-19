@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Membroestatico\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Membroestatico\\Course\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Membroestatico\\Course\\Course\\Course.csproj",
+      "projectPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Membroestatico\\Course\\Course\\Course.csproj",
       "packagesPath": "C:\\Users\\lucas.balbino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Membroestatico\\Course\\Course\\obj\\",
+      "outputPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Membroestatico\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

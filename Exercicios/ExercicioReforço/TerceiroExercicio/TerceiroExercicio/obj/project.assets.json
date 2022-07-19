@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Exercicios\\ExercicioReforço\\TerceiroExercicio\\TerceiroExercicio\\TerceiroExercicio.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Exercicios\\ExercicioReforço\\TerceiroExercicio\\TerceiroExercicio\\TerceiroExercicio.csproj",
       "projectName": "TerceiroExercicio",
-      "projectPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Exercicios\\ExercicioReforço\\TerceiroExercicio\\TerceiroExercicio\\TerceiroExercicio.csproj",
+      "projectPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Exercicios\\ExercicioReforço\\TerceiroExercicio\\TerceiroExercicio\\TerceiroExercicio.csproj",
       "packagesPath": "C:\\Users\\lucas.balbino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Calculadora_em_c#\\Exercicios\\ExercicioReforço\\TerceiroExercicio\\TerceiroExercicio\\obj\\",
+      "outputPath": "C:\\Users\\lucas.balbino\\Desktop\\Desenvolvimento_Lucas\\Desenv_C#\\Exercicios\\ExercicioReforço\\TerceiroExercicio\\TerceiroExercicio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
