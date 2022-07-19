@@ -1,0 +1,13 @@
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\bin\Debug\netcoreapp2.1\Salario.deps.json
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\bin\Debug\netcoreapp2.1\Salario.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\bin\Debug\netcoreapp2.1\Salario.runtimeconfig.dev.json
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\bin\Debug\netcoreapp2.1\Salario.dll
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\bin\Debug\netcoreapp2.1\Salario.pdb
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\obj\Debug\netcoreapp2.1\Salario.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\obj\Debug\netcoreapp2.1\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\obj\Debug\netcoreapp2.1\Salario.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\obj\Debug\netcoreapp2.1\Salario.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\obj\Debug\netcoreapp2.1\Salario.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\obj\Debug\netcoreapp2.1\Salario.dll
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\obj\Debug\netcoreapp2.1\Salario.pdb
+C:\Users\Samsung\OneDrive\Documentos\c#\calculadora_em_c\Reforco\Salario\Salario\obj\Debug\netcoreapp2.1\Salario.genruntimeconfig.cache
