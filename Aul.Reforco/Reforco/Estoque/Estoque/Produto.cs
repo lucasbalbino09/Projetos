@@ -4,10 +4,31 @@ namespace Estoque
 {
     internal class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco {get; private set;}
+        public int Quantidade {get; private set;}
 
+       
+        public Produto(string nome,int quantidade)
+        {
+            _nome = nome;
+            Preco = 500.00;
+            Quantidade = quantidade;
+        }
+
+
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value.Length > 1)
+                {
+                    _nome = value;
+                }
+
+            }
+        }
 
         public double ValorTotalEmEstoque()
         {
@@ -19,7 +40,7 @@ namespace Estoque
             Quantidade += valor;
         }
 
-         public void RemoverProdutos(int valor)
+        public void RemoverProdutos(int valor)
         {
             Quantidade -= valor;
         }
