@@ -8,10 +8,12 @@ namespace ConsoleApp1
         public int Cc { get; private set; }
         public string Titular { get; private set; }
         public double Saldo;
+
         public Banco()
         {
 
         }
+
         public Banco(int conta, string titular)
         {
             Cc = conta;
