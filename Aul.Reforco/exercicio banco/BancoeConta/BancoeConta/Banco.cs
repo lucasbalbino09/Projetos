@@ -15,9 +15,9 @@ namespace BancoeConta
             _titular = titular;
 
         }
-        public Banco(int conta, string titular,double Saldo) : this(conta,titular)
+        public Banco(int conta, string titular,double saldo) : this(conta,titular)
         {
-            Saldo = Saldo;
+            Saldo = saldo;
         }
 
         public string Titular
@@ -28,19 +28,16 @@ namespace BancoeConta
                 if (Titular.Length > 1)
                 {
                     Titular = _titular;
+                } else
+                {
+                    Titular = null;
                 }
 
             }
 
         }
-
-
-
-        public void Valor(double dp)
-        {
-            Saldo = dp;
-        }
-
+               
+       
         public void ValordeEntrada(double quant)
         {
             Saldo = Saldo + quant;

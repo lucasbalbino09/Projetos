@@ -15,14 +15,22 @@ namespace BancoeConta
             Banco resp = new Banco(Conta, titular);
 
             Console.Write("Haverá depósito inicial (s/n)? ");
-            string condicao = Console.ReadLine();
+            char condicao = char.Parse(Console.ReadLine());
 
-            if (condicao == "s" || condicao == "S")
+            if (condicao == 's' || condicao == 'S')
             {
                 Console.Write("Entre com o valor do depósito inicial: ");
                 double dp = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                resp.Valor(dp);
+                resp = new Banco(Conta, titular, dp);
+
             }
+            else
+            {
+                resp = new Banco(Conta, titular);
+            }
+
+
+
             Console.WriteLine("------------------------------------------------------");
             Console.WriteLine("Dados da conta:");
             Console.WriteLine(resp);
@@ -43,7 +51,6 @@ namespace BancoeConta
             Console.WriteLine("------------------------------------------------------");
 
             Console.ReadKey();
-
 
         }
     }
