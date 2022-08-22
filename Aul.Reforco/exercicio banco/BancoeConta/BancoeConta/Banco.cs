@@ -8,16 +8,16 @@ namespace BancoeConta
         public int Cc { get; private set; }
         private string _titular;
         public double Saldo { get; private set; }
-                     
+
         public Banco(int conta, string titular)
         {
             Cc = conta;
             _titular = titular;
 
         }
-        public Banco(int conta, string titular,double saldo) : this(conta,titular)
+        public Banco(int conta, string titular, double DpInicial) : this(conta, titular)
         {
-            Saldo = saldo;
+            ValordeEntrada(DpInicial);
         }
 
         public string Titular
@@ -28,7 +28,8 @@ namespace BancoeConta
                 if (Titular.Length > 1)
                 {
                     Titular = _titular;
-                } else
+                }
+                else
                 {
                     Titular = null;
                 }
@@ -36,8 +37,8 @@ namespace BancoeConta
             }
 
         }
-               
-       
+
+
         public void ValordeEntrada(double quant)
         {
             Saldo = Saldo + quant;
