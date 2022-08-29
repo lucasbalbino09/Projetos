@@ -1,32 +1,43 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ConsoleApp1
+namespace BancoeConta
 {
     internal class Banco
     {
         public int Cc { get; private set; }
-        public string Titular { get; private set; }
-        public double Saldo;
-
-        public Banco()
-        {
-
-        }
+        private string _titular;
+        public double Saldo { get; private set; }
 
         public Banco(int conta, string titular)
         {
             Cc = conta;
-            Titular = titular;
+            _titular = titular;
 
         }
-
-
-
-        public void Valor(double dp)
+        public Banco(int conta, string titular, double DpInicial) : this(conta, titular)
         {
-            Saldo = dp;
+            ValordeEntrada(DpInicial);
         }
+
+        public string Titular
+        {
+            get { return _titular; }
+            set
+            {
+                if (Titular.Length > 1)
+                {
+                    Titular = _titular;
+                }
+                else
+                {
+                    Titular = null;
+                }
+
+            }
+
+        }
+
 
         public void ValordeEntrada(double quant)
         {
