@@ -5,11 +5,11 @@ namespace Estoque
     internal class Produto
     {
         private string _nome;
-        public double Preco {get; private set;}
-        public int Quantidade {get; private set;}
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
-       
-        public Produto(string nome,int quantidade)
+
+        public Produto(string nome, int quantidade)
         {
             _nome = nome;
             Preco = 500.00;

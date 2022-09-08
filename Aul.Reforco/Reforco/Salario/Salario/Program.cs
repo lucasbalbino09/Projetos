@@ -13,13 +13,13 @@ namespace Salario
             Console.Write("Nome: ");
             pessoa1.nome1 = Console.ReadLine();
             Console.WriteLine("Salário: ");
-          pessoa1.Valor1 = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            pessoa1.Valor1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Dados do primeiro funcionário:");
             Console.WriteLine("Nome: ");
             pessoa1.nome2 = Console.ReadLine();
             Console.WriteLine("Salário: ");
-           pessoa2.Valor2 = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            pessoa2.Valor2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double res = Salario.Media(pessoa1.Valor1, pessoa2.Valor2);
 
