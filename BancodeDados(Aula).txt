@@ -1,0 +1,54 @@
+--------------------------------------------------- Camada de Aplicação  ---------------------------------------------------
+
+Se precisar mudar a regra de negocio, muda direto no servidor! 
+
+Caso precise mudar a interface então altere na pela parte cliente. 
+
+Poderia ter uma divisão entre banco de dados e regras de negocios em um único computador, porque a divisão é logica e não fisica. 
+
+Um unico servidor com o sistema dividido em camadas.
+
+Nos anos 2000 apareceram mais uma camada na camada de aplicações.
+
+então as camadas são: 
+
+-- Interface com o usuario 
+-- Web Server
+-- Regras de Negócio 
+-- Camada de dados. 
+
+
+(Regra de negocios são exigencias ou regras que vem da propria empresa, ela é valida dentro ou fora do sistema computacional, geralmente vem de processos repetitivos que consiste em aplicações obrigatorias.)
+
+Regras de negocio viria direto do servidor!
+
+Interface com o usuario seria a camada de apresentação que é o "nosso computador". 
+ 
+
+Anteriormente poderia ter o executavel fazendo uma conexão direta com o banco de dados! 
+Com a vinda da aplicação web não é mais possivel porque toda a riquisição do usuario vem do servidor web,
+então ele seria uma tercerização entre interface com o usuario, regas de negócio e banco de dados! 
+
+
+Para alterar o processo é necessario utilizar a camada Web Server, em seguida alterar o calculo na regra de negócio. 
+
+
+Os dados ficam armazenado no banco de dados --> vai para o servidor --> vem pela internet --> e por fim o navegador!
+
+
+Um dado é um fragmento de informação, isoladamente ele não gera uma informação completa
+Exemplo, se eu pego um dado de um usuario (idade e nome) eu só vou ter os dados de um usuario, sem poder fazer muita coisa com esse dado. 
+
+Porém se eu tenho dados de um determinado grupo posso pegar e fazer o calculo da media, assim eu consigo extrar informação.
+
+Banco de dados é um conjunto de registros em uma estrutura regular.  
+
+--------------------------------------------------- SGBD ---------------------------------------------------
+
+SGBD --> SISTEMA GERENCIADOR DE BANCO DE DADOS, serve geralmente pra ter acesso direto nos registro do banco. 
+SGBD é Massivo, Persistente, Seguro, Multi-usuarios, Conveniente, Eficiente, Confiável.
+
+
+SGBD não é executavel, ele é como um serviço (ele não tem interface grafica).
+
+
