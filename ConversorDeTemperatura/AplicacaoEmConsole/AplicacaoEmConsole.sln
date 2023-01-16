@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1738
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorDeTemperatura", "ConversorDeTemperatura\ConversorDeTemperatura.csproj", "{607F3652-9EAD-48B4-BFC9-C176E56B07E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoEmConsole", "AplicacaoEmConsole\AplicacaoEmConsole.csproj", "{FEC725CA-CD52-407F-9730-3A01249F7FB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{607F3652-9EAD-48B4-BFC9-C176E56B07E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{607F3652-9EAD-48B4-BFC9-C176E56B07E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{607F3652-9EAD-48B4-BFC9-C176E56B07E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{607F3652-9EAD-48B4-BFC9-C176E56B07E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC725CA-CD52-407F-9730-3A01249F7FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC725CA-CD52-407F-9730-3A01249F7FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC725CA-CD52-407F-9730-3A01249F7FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC725CA-CD52-407F-9730-3A01249F7FB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2A37DC7E-F357-42DC-91EE-3DDEDFFB9049}
+		SolutionGuid = {D2F0DDC8-0EA6-45C8-8F46-FE54A0F37004}
 	EndGlobalSection
 EndGlobal
