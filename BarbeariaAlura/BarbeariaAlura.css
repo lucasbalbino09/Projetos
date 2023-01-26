@@ -1,0 +1,30 @@
+body {
+    background: #CCCCCC;
+}
+
+.itens {
+    font-style: italic;
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.missao {
+    font-size: 20px;
+}
+
+
+/* Quando você precisa especificar */
+
+em strong {
+    color: #ff0000;
+}

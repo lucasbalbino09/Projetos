@@ -36,7 +36,6 @@ for (let i = 0; i < ListaDeTeclas.length; i++) {
         }
     }
 
-    tecla.onkeyup = function() {
-        tecla.classList.remove('ativa');
-    }
+    tecla.onkeyup = () => tecla.classList.remove('ativa');
+
 }
